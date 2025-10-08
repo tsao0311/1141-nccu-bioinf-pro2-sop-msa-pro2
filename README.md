@@ -1,6 +1,6 @@
 # pro2. calculate the Sum-Of-Pair score of the MSA
-* your name
-* student ID
+* 曹柏泓
+* 113753108
 
 ## Description
 
